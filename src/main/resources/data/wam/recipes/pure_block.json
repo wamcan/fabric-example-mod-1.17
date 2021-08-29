@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "wam:solid_pure_block"
+  },
+  "result": "wam:pure_block",
+  "experience": 0.15,
+  "cookingtime": 200
+}

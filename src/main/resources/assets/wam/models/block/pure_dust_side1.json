@@ -1,0 +1,6 @@
+{
+    "parent": "block/pure_dust_side",
+    "textures": {
+        "line": "wam:block/pure_dust_line1"
+    }
+}

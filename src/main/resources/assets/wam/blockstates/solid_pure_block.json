@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "wam:block/solid_pure_block" },
+  }
+}

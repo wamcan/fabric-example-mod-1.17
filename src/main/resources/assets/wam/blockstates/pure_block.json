@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "charged=false": { "model": "wam:block/pure_block" },
+    "charged=true": { "model": "wam:block/pure_light" }
+  }
+}
